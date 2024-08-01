@@ -44,6 +44,9 @@ Details :
 10. Command : git push origin <main>
     - Replace <main> with your default branch of the repository.
     - Dont worry ... read below to how you can find the default branch.
-    - 
+    - After opening the repo, below the Repository you can see the branch name.
+   
+
+Thats it bro... :)
 
  
