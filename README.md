@@ -7,7 +7,7 @@ This is to guide you about how you can create a repo on Git hub.
 And then if you have some files/ folders in your local desktop then how you can push those files/ folders into the perticular git repository. 
 
 # Requirement : Integrating the Git repo with your local folder 
-# Goal: You want to upload the contents of the "Interview Prep" folder to your GitHub repository.
+@ Goal: You want to upload the contents of the "Interview Prep" folder to your GitHub repository.
 -----------------------------------------------------------------
 Details : 
 * Local Folder: "Interview Prep" on your E drive (E:\Interview Prep)    Assume there are some files in your folder i.e 'Interview Prep'
