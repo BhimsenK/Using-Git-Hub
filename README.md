@@ -63,8 +63,10 @@ Thats it bro... :)
 - Then you can add some files into your local folder if you want. Then to update the local folder changes into git repo, you need to use below commands after adding the files/ folders.
   * Commands :
 
-  git add .
-  git commit -m "Resolved merge conflicts"
-  git push origin main
+  1. git add .
+  2. git commit -m "Resolved merge conflicts"
+  3. git push origin main
+  
+  
 
  
