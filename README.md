@@ -49,4 +49,22 @@ Details :
 
 Thats it bro... :)
 
+
+# Possible error :
+---------------------
+
+- Suppose you have modified some sentences, words directly in your Git repo i.e readme.txt or any other file.
+- Now you don't have those changes into your local folder in which you have cloned the Git Repo.
+- 
+- So first you need to use below command to update the changes happened in the Git into your folder.
+  * Command : git pull origin main
+  (main is the default branch of this repo so)
+  
+- Then you can add some files into your local folder if you want. Then to update the local folder changes into git repo, you need to use below commands after adding the files/ folders.
+  * Commands :
+
+  git add .
+  git commit -m "Resolved merge conflicts"
+  git push origin main
+
  
